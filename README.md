@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gargi Jadhav</h1>
+<h1 align="center">Hi , I'm Gargi Jadhav</h1>
 <h3 align="center">A 3rd year student passionate about building real-world tech solutions</h3>
 
 <img align="right" alt="coding" width="300" 
