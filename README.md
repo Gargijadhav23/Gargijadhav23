@@ -7,7 +7,6 @@
 
 - I’m currently working on **Crowd Sourced Campus Maintenance Platform**
 
-- I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
