@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gargi Jadhav</h1>
+<h1 align="center">Hi , I'm Gargi Jadhav</h1>
 <h3 align="center">A 3rd year student passionate about building real-world tech solutions</h3>
 
 <img align="right" alt="coding" width="300" 
@@ -10,11 +10,11 @@ src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 ---
 
-### 🌱 About Me
-- 🎓 3rd Year Student  
-- 💻 Learning, building, and exploring technology  
-- 🚀 Currently working on **Crowd Sourced Campus Maintenance Platform**  
-- ✨ Interested in Web Development & Real-World Projects  
+###  About Me
+-  3rd Year Student  
+-  Learning, building, and exploring technology  
+-  Currently working on **Crowd Sourced Campus Maintenance Platform**  
+-  Interested in Web Development & Real-World Projects  
 
 ---
 
