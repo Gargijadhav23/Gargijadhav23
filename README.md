@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Gargi Jadhav 👋</h1>
+<h1 align="center">Hi, I'm Gargi Jadhav </h1>
 
 <h3 align="center">A Computer Science student passionate about technology, Generative AI, and building real-world solutions.</h3>
 
@@ -18,7 +18,7 @@ src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" />
 -  Learning Python and Automation
 -  Interested in Technical Writing and Product Documentation
 -  Building practical projects and exploring new technologies
--  Currently working on **Crowd Campus – Campus Maintenance Platform**
+-  Currently working on **QueueLess**
 
 ---
 
@@ -44,7 +44,6 @@ src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" />
 
 - Generative AI and Large Language Models
 - Python Automation
-- Prompt Engineering and RAG
 - Technical Documentation
 - Git and Version Control
 
