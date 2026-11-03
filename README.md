@@ -3,13 +3,11 @@
 
 <h3 align="center">A Computer Science student passionate about technology, Generative AI, and building real-world solutions.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gargijadhav23&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 
-<img align="right" alt="Coding girl animation" width="300" src="https://media.tenor.com/IF2JdxznyN4AAAAj/coding-girl.gif" />
 
+<img align="right" alt="Coding girl" width="300"
+src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" />
 
 ---
 
